@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0C0C10"/>
+  <ellipse cx="32" cy="32" rx="20" ry="7.5" stroke="#FFB15A" stroke-width="1.4" transform="rotate(-28 32 32)"/>
+  <mask id="moon" maskUnits="userSpaceOnUse">
+    <rect width="64" height="64" fill="#fff"/>
+    <circle cx="39" cy="31" r="11" fill="#000"/>
+  </mask>
+  <circle cx="30" cy="33" r="13" fill="#FF7A1A" mask="url(#moon)"/>
+</svg>
