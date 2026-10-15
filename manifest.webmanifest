@@ -1,0 +1,19 @@
+{
+  "name": "نیکان",
+  "short_name": "نیکان",
+  "description": "سکوی تعاونی نیکان برای خدمات اعضا",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0c10",
+  "theme_color": "#0c0c10",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
